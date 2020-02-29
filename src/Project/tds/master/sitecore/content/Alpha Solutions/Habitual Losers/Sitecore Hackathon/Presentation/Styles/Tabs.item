@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {9D288E50-BCFE-4350-9A84-99070926BD10}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Styles/Tabs
+parent: {6270BBD2-01F3-4B9D-BC80-A60992D6A1FC}
+name: Tabs
+master: {00000000-0000-0000-0000-000000000000}
+template: {C6DC7393-15BB-4CD7-B798-AB63E77EBAC4}
+templatekey: Styles
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+175
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{0E44906D-9297-4E66-B918-DD2A1F23BA36}
+----version----
+language: en
+version: 1
+revision: 
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20200229T005328:637185344086149763Z
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T005328Z

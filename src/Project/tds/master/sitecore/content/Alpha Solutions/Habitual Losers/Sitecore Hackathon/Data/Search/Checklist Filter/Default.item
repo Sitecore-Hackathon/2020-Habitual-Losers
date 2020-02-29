@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {E0E635E2-2EFA-427D-A923-9B622C0F183C}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Data/Search/Checklist Filter/Default
+parent: {34646CE5-6F70-4619-BA4C-2C21BA6EC61E}
+name: Default
+master: {00000000-0000-0000-0000-000000000000}
+template: {6E188261-E572-4330-B88A-88C68B0926E7}
+templatekey: Checklist Filter
+
+----field----
+field: {0A5DBE83-3914-4630-90EF-D1BBBCDEDE7F}
+name: Facet
+key: facet
+content-length: 38
+
+{BA893927-02B4-4C58-AFAB-C4C00792F856}
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{F0C519AE-BE32-4722-BCB1-E9E1449861E7}
+----version----
+language: en
+version: 1
+revision: a43f2be5-f086-43f9-a70a-79311096a39d
+
+----field----
+field: {AE2FB54E-10CB-4DEC-BF62-DFEB17D3CC7E}
+name: Title
+key: title
+content-length: 8
+
+Sxa Tags
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T005509Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a43f2be5-f086-43f9-a70a-79311096a39d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T005517Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

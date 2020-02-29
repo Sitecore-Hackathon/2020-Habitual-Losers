@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {BA893927-02B4-4C58-AFAB-C4C00792F856}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Settings/Facets/SxaTags
+parent: {2CCA239D-0B87-4210-837F-6E7BA314525E}
+name: SxaTags
+master: {00000000-0000-0000-0000-000000000000}
+template: {6042E216-F650-447C-86D1-00FEA97454E7}
+templatekey: ListFacet
+
+----field----
+field: {0E23BB51-C071-41B5-9D83-AC410B89B85A}
+name: Parameters
+key: parameters
+content-length: 7
+
+SxaTags
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{125A6C41-19B0-4455-9935-143024074A54}
+----version----
+language: en
+version: 1
+revision: 1c99ef72-ae7e-4988-9796-61bd05446e5e
+
+----field----
+field: {31CA077F-EF38-4980-8A24-05408031B2BC}
+name: Name
+key: name
+content-length: 7
+
+SxaTags
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T005504Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1c99ef72-ae7e-4988-9796-61bd05446e5e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T005504Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {89A28558-43AB-4FC6-8EA7-2231B32311D7}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Settings/Shared Sites Settings
+parent: {6DA25B35-B686-4049-9203-D673B1B55FD0}
+name: Shared Sites Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {18D0BD79-7DA4-4C2A-A924-B93A2B99D669}
+templatekey: Shared Sites Settings
+
+----version----
+language: en
+version: 1
+revision: ceb98c23-1194-4ba9-b1ee-28f326046dff
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T005312Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ceb98c23-1194-4ba9-b1ee-28f326046dff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T005312Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
