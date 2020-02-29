@@ -1,25 +1,25 @@
 ----item----
 version: 1
-id: {63A6C400-B4FC-41D7-B2A0-9438C0060D17}
+id: {6510B3D1-1F79-4BE4-A46F-31A87819EDF9}
 database: master
-path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Rendering Variants/Page List/Team Members List/Linked In
-parent: {C760125C-8B7B-4331-9E49-2B116B892F09}
-name: Linked In
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Rendering Variants/Page List/Team List By Year/list group/Participants
+parent: {B142FAB5-54D3-4F75-A52F-552E2BC79163}
+name: Participants
 master: {00000000-0000-0000-0000-000000000000}
-template: {FCD285DA-9AB2-4C8D-B185-5A7487A9BA1B}
-templatekey: VariantField
+template: {6354D18E-54E9-45AD-9EC7-510769DB4809}
+templatekey: VariantReference
 
 ----field----
-field: {4753764C-C05A-4623-841B-97F85135241C}
-name: FieldName
-key: fieldname
-content-length: 9
+field: {6A018521-3D58-4CDD-98FC-88BE689650D5}
+name: PassThroughField
+key: passthroughfield
+content-length: 12
 
-Linked In
+Participants
 ----version----
 language: en
 version: 1
-revision: b5af9162-c8a6-4aa4-bb56-3610f4cff131
+revision: 146bf047-0d17-45e2-9b87-8e0d6f948093
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -34,7 +34,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20200229T204728Z
+20200229T214611Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b5af9162-c8a6-4aa4-bb56-3610f4cff131
+146bf047-0d17-45e2-9b87-8e0d6f948093
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T204728Z
+20200229T231557Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

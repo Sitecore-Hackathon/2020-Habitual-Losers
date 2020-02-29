@@ -1,33 +1,26 @@
 ----item----
 version: 1
-id: {5C5EFD31-1BF2-4761-B706-5F66D6F7DFE1}
+id: {90FCC264-E67C-4034-A3CF-FDA8913F5951}
 database: master
-path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Rendering Variants/Page List/Team List/Team Members
-parent: {7250B830-F72A-459F-850E-9B285F0A1BC2}
-name: Team Members
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Data/Tags/Country Tags/Canada
+parent: {3174723A-0A8D-4BAA-9593-5A079300F71D}
+name: Canada
 master: {00000000-0000-0000-0000-000000000000}
-template: {F4218805-86DD-4A01-A94D-7342FC392BCC}
-templatekey: VariantPlaceholder
+template: {6B40E84C-8785-49FC-8A10-6BCA862FF7EA}
+templatekey: Tag
 
-----field----
-field: {E33B1E31-C30F-4F60-BB26-76BE8F12B1CB}
-name: Placeholder Key
-key: placeholder key
-content-length: 12
-
-team members
-----field----
-field: {34A05F2C-F66E-4574-87DF-D2F77F823523}
-name: SwitchContext
-key: switchcontext
-content-length: 1
-
-1
 ----version----
 language: en
 version: 1
-revision: 1ea8137a-f4d8-4c15-809e-51b9472b8a29
+revision: 5d74220e-2bb4-4a87-b6e0-71f1b4e89a7e
 
+----field----
+field: {B8A8B6C9-4757-496B-9AAE-5F46FF381563}
+name: Title
+key: title
+content-length: 6
+
+Canada
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -41,7 +34,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20200229T204649Z
+20200229T224704Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -55,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1ea8137a-f4d8-4c15-809e-51b9472b8a29
+5d74220e-2bb4-4a87-b6e0-71f1b4e89a7e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T205044Z
+20200229T224704Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

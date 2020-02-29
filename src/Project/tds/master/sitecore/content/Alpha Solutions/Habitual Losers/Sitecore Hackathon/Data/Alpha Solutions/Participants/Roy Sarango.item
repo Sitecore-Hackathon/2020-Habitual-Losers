@@ -12,7 +12,7 @@ templatekey: Participant
 ----version----
 language: en
 version: 1
-revision: be05ccf8-076d-4d1e-8369-dd76db806afc
+revision: 8d67259a-799c-4687-ba66-8630a51ff7b0
 
 ----field----
 field: {5D71E30A-7D24-4F33-8F36-1D3E07D33341}
@@ -25,16 +25,16 @@ Roy Sarango
 field: {40C702B3-D8E3-4430-81B4-BAF71DD1565B}
 name: LinkedIn Url
 key: linkedin url
-content-length: 75
+content-length: 111
 
-<link linktype="external" url="https://www.linkedin.com/in/roy-sarango/" />
+<link text="LinkedIn" linktype="external" url="https://www.linkedin.com/in/roy-sarango/" anchor="" target="" />
 ----field----
 field: {D2267C6F-E56A-4311-9096-F8F2AE4F3F47}
-name: Twitter Username
-key: twitter username
-content-length: 65
+name: Twitter Url
+key: twitter url
+content-length: 100
 
-<link linktype="external" url="https://twitter.com/roysarango" />
+<link text="Twitter" linktype="external" url="https://twitter.com/roysarango" anchor="" target="" />
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-be05ccf8-076d-4d1e-8369-dd76db806afc
+8d67259a-799c-4687-ba66-8630a51ff7b0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T064217Z
+20200229T230220Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

@@ -1,18 +1,39 @@
 ----item----
 version: 1
-id: {C760125C-8B7B-4331-9E49-2B116B892F09}
+id: {C6B4CBA3-750A-4F30-B7EB-A6BE1D612233}
 database: master
-path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Rendering Variants/Page List/Team Members List
-parent: {361245D2-2756-4864-9893-DC151B672479}
-name: Team Members List
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Rendering Variants/Page List/Team List By Year/list group/Participants/Container/LinkedIn Url
+parent: {8D1BDBD6-D4EC-4CA9-B3A2-0AC29091A746}
+name: LinkedIn Url
 master: {00000000-0000-0000-0000-000000000000}
-template: {FB3E3034-33F8-4CE8-BE98-DD05010F4C22}
-templatekey: Variant Definition
+template: {FCD285DA-9AB2-4C8D-B185-5A7487A9BA1B}
+templatekey: VariantField
 
+----field----
+field: {DB805BDC-8EEC-4238-B174-2427B6F1F077}
+name: Tag
+key: tag
+content-length: 38
+
+{18C8C889-C723-452A-970C-7CE4D41EE371}
+----field----
+field: {4753764C-C05A-4623-841B-97F85135241C}
+name: FieldName
+key: fieldname
+content-length: 12
+
+LinkedIn Url
+----field----
+field: {DCB05E5E-7151-4226-A3B0-108C5E2F05B5}
+name: IsLink
+key: islink
+content-length: 1
+
+1
 ----version----
 language: en
 version: 1
-revision: aee6c71e-102f-43a4-aeb6-a48240ff9389
+revision: 5d57d560-3b4d-4726-ac81-2c51ade207a2
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -27,7 +48,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20200229T204659Z
+20200229T214715Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-aee6c71e-102f-43a4-aeb6-a48240ff9389
+5d57d560-3b4d-4726-ac81-2c51ade207a2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T204827Z
+20200229T221943Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

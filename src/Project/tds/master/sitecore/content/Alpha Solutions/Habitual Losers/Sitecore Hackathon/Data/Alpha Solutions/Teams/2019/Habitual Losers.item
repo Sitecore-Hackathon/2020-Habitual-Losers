@@ -9,10 +9,17 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {A6C595AF-2B2C-4A8E-8D02-25EF0CB60D70}
 templatekey: Team
 
+----field----
+field: {97FB669D-5B8E-4829-9A24-06418C315D73}
+name: SxaTags
+key: sxatags
+content-length: 38
+
+{90FCC264-E67C-4034-A3CF-FDA8913F5951}
 ----version----
 language: en
 version: 1
-revision: bce1b242-e039-4a4a-9bc8-7bf1e2b3c5aa
+revision: dbc8ca6c-e21d-4a74-886e-86e1204ad08a
 
 ----field----
 field: {FB91F8B4-9046-4A0B-8254-061FD11C0B91}
@@ -41,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bce1b242-e039-4a4a-9bc8-7bf1e2b3c5aa
+dbc8ca6c-e21d-4a74-886e-86e1204ad08a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T212418Z
+20200229T225542Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

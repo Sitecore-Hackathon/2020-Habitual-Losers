@@ -19,7 +19,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 4e8478b8-73ff-4df4-bf58-c25ae9823747
+revision: cbd4329c-2cd1-404f-b5d4-1c926bddc02f
 
 ----field----
 field: {BF1DCF60-D24B-4C4E-87F0-F2E1CC86E12A}
@@ -42,6 +42,13 @@ key: navigationtitle
 content-length: 29
 
 First Ever Sitecore Hackathon
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 556
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{C485EC6E-097E-443C-8ED4-20FEF62FAA48}" s:ds="{C42A45D6-A514-4EB9-8C16-3BBB2EAE9E07}" s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}" s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7BC760125C-8B7B-4331-9E49-2B116B892F09%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1" s:ph="main" /></d></r>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -69,14 +76,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4e8478b8-73ff-4df4-bf58-c25ae9823747
+cbd4329c-2cd1-404f-b5d4-1c926bddc02f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T191455Z
+20200229T225208Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -84,3 +91,10 @@ key: __updated by
 content-length: 14
 
 sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

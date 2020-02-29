@@ -15,19 +15,19 @@ name: SxaTags
 key: sxatags
 content-length: 38
 
-{C0279004-61EC-4E26-A1E7-395592D75F12}
+{F47AA7C1-0C21-4713-878F-3D65C3FFD8AA}
 ----version----
 language: en
 version: 1
-revision: e576ce27-4fef-4ec7-86de-23809b78bd8a
+revision: 7efa308b-1059-400a-8ecd-429830f1a086
 
 ----field----
 field: {FB91F8B4-9046-4A0B-8254-061FD11C0B91}
 name: Name
 key: name
-content-length: 13
+content-length: 18
 
-The Defenders
+The Defenders 2020
 ----field----
 field: {61621679-2071-4ED8-A315-3A3AE863531F}
 name: Participants
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e576ce27-4fef-4ec7-86de-23809b78bd8a
+7efa308b-1059-400a-8ecd-429830f1a086
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T212319Z
+20200229T224725Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

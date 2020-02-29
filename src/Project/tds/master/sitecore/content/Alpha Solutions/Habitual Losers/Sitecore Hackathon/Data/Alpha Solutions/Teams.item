@@ -9,10 +9,17 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {C9C93E78-4019-42BC-9275-359813B61A05}
 templatekey: Team Folder
 
+----field----
+field: {6FD695E7-7F6D-4CA5-8B49-A829E5950AE9}
+name: __Subitems Sorting
+key: __subitems sorting
+content-length: 38
+
+{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}
 ----version----
 language: en
 version: 1
-revision: 8262d53d-f57b-43cf-bb25-124aa6e3822b
+revision: 635ad818-e27a-4788-a7bc-af62f78d4aed
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,14 +34,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8262d53d-f57b-43cf-bb25-124aa6e3822b
+635ad818-e27a-4788-a7bc-af62f78d4aed
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T064323Z
+20200229T223927Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
