@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {2A0C7FD9-0386-40B7-9219-8FA48EC261ED}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Partial Designs/Hackathon Article Page
+parent: {CD0B725C-987B-4581-9AE6-A2FBB1EEDD2C}
+name: Hackathon Article Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {317A77FF-B497-41C9-9532-DE2F9C0ECBC3}
+templatekey: Partial Design
+
+----field----
+field: {55FAAE90-3BBA-4F7F-96FE-13C3F40055FF}
+name: Signature
+key: signature
+content-length: 12
+
+article-page
+----version----
+language: en
+version: 1
+revision: 46b3e347-8aff-4093-8bb8-10ed8e97faf4
+
+----field----
+field: {76A92454-C8BE-479B-B260-26AEBCED5A1A}
+name: Base Partial Design
+key: base partial design
+content-length: 38
+
+{AEDF7AD9-CD46-48CA-9D94-A9F00A775028}
+----field----
+field: {4C2F221F-9426-45ED-9EEB-C79BB3169565}
+name: StickyNotes
+key: stickynotes
+content-length: 12
+
+{"items":[]}
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 904
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{FC371635-17A2-4C9D-B65A-5B6491954F79}" p:before="*" s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}" s:par="Reset Caching Options&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7BEDCDB057-4042-43E4-9415-4058DE0007CB%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1" s:ph="/header/sxa-__standard-values/column-1-1" /><r uid="{C8E1D364-9AAA-4BCE-A930-C9FCAA1E662B}" p:after="*[1=2]" s:ds="" s:id="{CE780A09-737D-4E58-89B5-31A85101447D}" s:par="Reset Caching Options&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;SearchResultPage=%7B6CD853D4-1099-44B5-AE42-2AAB755AC488%7D&amp;FieldNames=%7BEB927B92-9853-42C2-8D7D-50D58CCC0B3A%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2" s:ph="/header/sxa-__standard-values/column-1-1" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T201254Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+46b3e347-8aff-4093-8bb8-10ed8e97faf4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T211252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

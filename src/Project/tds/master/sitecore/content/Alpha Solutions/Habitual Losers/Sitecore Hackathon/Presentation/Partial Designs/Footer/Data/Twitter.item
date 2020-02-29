@@ -12,7 +12,7 @@ templatekey: Twitter
 ----version----
 language: en
 version: 1
-revision: f01ada4b-649c-4ec5-b1fe-1c475a1b16d4
+revision: 50c2e92d-b2ec-4c92-9927-f337348fb509
 
 ----field----
 field: {AE1EB2D8-3A7C-4337-83DF-1B0B0C857BEE}
@@ -28,6 +28,13 @@ key: screenname
 content-length: 14
 
 HabitualLosers
+----field----
+field: {614B5DA5-76B7-4EFA-BB0C-1C56B27CFADF}
+name: Hashtag
+key: hashtag
+content-length: 18
+
+#SitecoreHackathon
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -55,14 +62,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f01ada4b-649c-4ec5-b1fe-1c475a1b16d4
+50c2e92d-b2ec-4c92-9927-f337348fb509
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T015458Z
+20200229T204641Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

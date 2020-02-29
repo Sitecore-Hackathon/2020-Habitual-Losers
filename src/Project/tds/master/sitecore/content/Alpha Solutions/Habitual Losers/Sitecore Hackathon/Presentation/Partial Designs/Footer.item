@@ -19,7 +19,14 @@ footer
 ----version----
 language: en
 version: 1
-revision: b7bcd1ae-f3fd-45d0-900d-f003fed13551
+revision: 05741e99-5485-4dfe-9ef5-3c719344ccd2
+
+----field----
+field: {76A92454-C8BE-479B-B260-26AEBCED5A1A}
+name: Base Partial Design
+key: base partial design
+content-length: 0
+
 
 ----field----
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
@@ -48,14 +55,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-b7bcd1ae-f3fd-45d0-900d-f003fed13551
+05741e99-5485-4dfe-9ef5-3c719344ccd2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T015458Z
+20200229T212735Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

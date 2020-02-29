@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {72334389-4FDF-43D2-9F13-8C2D77F6B5CB}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Partial Designs/Team Members
+parent: {CD0B725C-987B-4581-9AE6-A2FBB1EEDD2C}
+name: Team Members
+master: {00000000-0000-0000-0000-000000000000}
+template: {317A77FF-B497-41C9-9532-DE2F9C0ECBC3}
+templatekey: Partial Design
+
+----field----
+field: {55FAAE90-3BBA-4F7F-96FE-13C3F40055FF}
+name: Signature
+key: signature
+content-length: 12
+
+team-members
+----version----
+language: en
+version: 1
+revision: 718ff873-607e-4af2-91f2-e8715d21a28e
+
+----field----
+field: {4C2F221F-9426-45ED-9EEB-C79BB3169565}
+name: StickyNotes
+key: stickynotes
+content-length: 12
+
+{"items":[]}
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 510
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{D5A0FB95-CCCD-40C8-A78A-7E8479980CF4}" s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}" s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7B7250B830-F72A-459F-850E-9B285F0A1BC2%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1" s:ph="main" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T204124Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+718ff873-607e-4af2-91f2-e8715d21a28e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T211252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {53F43431-3F53-4BBE-941E-29A4E241CFD8}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Settings/Item Queries/Hackathon Article Query
+parent: {4BA7A602-B659-433B-A033-879F502CE91C}
+name: Hackathon Article Query
+master: {00000000-0000-0000-0000-000000000000}
+template: {E379CA4E-EC5D-4001-9489-C0A7CECA4C94}
+templatekey: Query
+
+----field----
+field: {E9657877-584C-4CCF-8300-DC9246C8C80B}
+name: Query
+key: query
+content-length: 113
+
++location:{37cfc199-0545-4a2b-a07a-c0d4e6d73506};+template:{147b9204-5efc-4ec4-9994-4fa00612b4c1};sort:Year[desc]
+----version----
+language: en
+version: 1
+revision: 7e9b5f6f-4c9d-4e3b-82b2-5cdc6a46191e
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T191713Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7e9b5f6f-4c9d-4e3b-82b2-5cdc6a46191e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T191842Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

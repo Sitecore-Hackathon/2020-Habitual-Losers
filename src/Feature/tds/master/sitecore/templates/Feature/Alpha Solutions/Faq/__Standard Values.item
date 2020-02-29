@@ -1,54 +1,54 @@
 ----item----
 version: 1
-id: {86AAF3A4-DED7-4F48-8430-BC566B656354}
+id: {70EF7489-E8A5-432E-93C3-D827C0860531}
 database: master
-path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Home/Page
-parent: {9A347355-8E7A-4441-8A2A-93A4C17BF707}
-name: Page
+path: /sitecore/templates/Feature/Alpha Solutions/Faq/__Standard Values
+parent: {FF7EE058-1850-4249-8629-3FB29297161D}
+name: __Standard Values
 master: {00000000-0000-0000-0000-000000000000}
-template: {CCEE96CD-19AA-4BE3-A548-3B24198AA686}
-templatekey: Page
+template: {FF7EE058-1850-4249-8629-3FB29297161D}
+templatekey: Faq
 
 ----version----
 language: en
 version: 1
-revision: cbba4a19-9a30-4f0a-8e36-edb720d93603
+revision: 5313a8b7-3e5a-4218-af2d-ecd6b5ed5076
 
 ----field----
-field: {BF1DCF60-D24B-4C4E-87F0-F2E1CC86E12A}
-name: Title
-key: title
-content-length: 4
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
 
-Page
-----field----
-field: {4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}
-name: NavigationTitle
-key: navigationtitle
-content-length: 4
-
-Page
+sitecore\Admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20200229T020121Z
+20200229T163933Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-cbba4a19-9a30-4f0a-8e36-edb720d93603
+5313a8b7-3e5a-4218-af2d-ecd6b5ed5076
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T020121Z
+20200229T163933Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

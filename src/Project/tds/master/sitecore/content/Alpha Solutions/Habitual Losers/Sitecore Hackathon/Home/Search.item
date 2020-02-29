@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {6CD853D4-1099-44B5-AE42-2AAB755AC488}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Home/Search
+parent: {9A347355-8E7A-4441-8A2A-93A4C17BF707}
+name: Search
+master: {00000000-0000-0000-0000-000000000000}
+template: {CCEE96CD-19AA-4BE3-A548-3B24198AA686}
+templatekey: Page
+
+----field----
+field: {24171BF1-C0E1-480E-BE76-4C0A1876F916}
+name: Page Design
+key: page design
+content-length: 38
+
+{CBB0ABBE-A7C1-46E9-8FE5-89C1AFEE1375}
+----version----
+language: en
+version: 1
+revision: 1b53b649-f88a-499d-a64a-92a168813985
+
+----field----
+field: {BF1DCF60-D24B-4C4E-87F0-F2E1CC86E12A}
+name: Title
+key: title
+content-length: 6
+
+Search
+----field----
+field: {4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}
+name: NavigationTitle
+key: navigationtitle
+content-length: 6
+
+Search
+----field----
+field: {4C2F221F-9426-45ED-9EEB-C79BB3169565}
+name: StickyNotes
+key: stickynotes
+content-length: 12
+
+{"items":[]}
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 709
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{596655FF-92AB-4F34-B2A9-2D360DF3649B}" s:ds="{F3FF93C1-94B2-4A51-A204-8B4C2741CACA}" s:id="{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}" s:par="Reset Caching Options&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;SearchSignature&amp;FieldNames=%7BF4906A93-A73B-4DA0-B700-78686A82E026%7D&amp;Styles&amp;Scope=%7B11C7750C-4765-4126-BF2F-8F207AD13612%7D&amp;PageSize=20&amp;DefaultLanguageFilter&amp;DefaultSortOrder=%7B04763BBC-C47C-4A69-B714-6D600EC1D3D4%7D&amp;AutoFireSearchWhenNoCriteriaSet=1&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1" s:ph="/header/sxa-__standard-values/column-1-1" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T193937Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1b53b649-f88a-499d-a64a-92a168813985
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T203235Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

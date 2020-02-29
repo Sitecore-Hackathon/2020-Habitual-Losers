@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {AEDF7AD9-CD46-48CA-9D94-A9F00A775028}
+database: master
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Partial Designs/Hackathon Base
+parent: {CD0B725C-987B-4581-9AE6-A2FBB1EEDD2C}
+name: Hackathon Base
+master: {00000000-0000-0000-0000-000000000000}
+template: {317A77FF-B497-41C9-9532-DE2F9C0ECBC3}
+templatekey: Partial Design
+
+----field----
+field: {55FAAE90-3BBA-4F7F-96FE-13C3F40055FF}
+name: Signature
+key: signature
+content-length: 17
+
+__standard-values
+----version----
+language: en
+version: 1
+revision: 39d1b69d-d755-4ba1-ad22-79219e6721b2
+
+----field----
+field: {4C2F221F-9426-45ED-9EEB-C79BB3169565}
+name: StickyNotes
+key: stickynotes
+content-length: 12
+
+{"items":[]}
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 2576
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{58F08DEC-8B2B-4E31-8F6D-DCDDE9C78726}" p:before="*" s:ds="local:/Data/Text 1" s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}" s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;FieldNames=%7b834A4CF6-0EFF-4408-85C1-97F7E9D3B211%7d&amp;DynamicPlaceholderId=2&amp;Reset Caching Options" s:ph="/header/column-2-1" /><r uid="{11AFA2CC-B640-4DA7-8B6A-6BF98E957004}" p:after="r[@uid='{58F08DEC-8B2B-4E31-8F6D-DCDDE9C78726}']" s:ds="" s:id="{1B1FDBF9-551B-4A00-A6D8-BB2FB7B62A62}" s:par="RenderingIdentifier&amp;Styles&amp;Reset Caching Options&amp;SourceType=%7b53F43431-3F53-4BBE-941E-29A4E241CFD8%7d&amp;FieldName=Year&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;FieldNames=%7b747DBC78-D29E-4DC8-8292-A7349DC79076%7d&amp;DynamicPlaceholderId=3&amp;Format" s:ph="/header/column-2-1" /><r uid="{EBE239FD-9202-4A25-B534-0A234567830B}" p:after="r[@uid='{11AFA2CC-B640-4DA7-8B6A-6BF98E957004}']" s:ds="local:/Data/Text 2" s:id="{DCEE78E1-1843-4456-A13A-F10A12191630}" s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;FieldNames=%7b834A4CF6-0EFF-4408-85C1-97F7E9D3B211%7d&amp;DynamicPlaceholderId=4&amp;Reset Caching Options" s:ph="/header/column-2-1" /><r uid="{C9E1D66D-9F08-4280-852A-2B589B3E86A8}" p:after="r[@uid='{EBE239FD-9202-4A25-B534-0A234567830B}']" s:ds="{37CFC199-0545-4A2B-A07A-C0D4E6D73506}" s:id="{2400E52D-F9B3-445D-8629-A69720A22B44}" s:par="RenderingIdentifier&amp;Styles&amp;SearchResultPage=%7b6CD853D4-1099-44B5-AE42-2AAB755AC488%7d&amp;Facet=%7bBA893927-02B4-4C58-AFAB-C4C00792F856%7d&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;FieldNames=%7b0F40BD9E-5C6C-4B8F-8B3A-8D5F0F41F1E0%7d&amp;DynamicPlaceholderId=5&amp;Reset Caching Options" s:ph="/header/column-2-1" /><r uid="{F091B7A0-5BEC-4E94-8596-0E5BBE01369E}" p:after="*[1=2]" s:ds="" s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}" s:par="DynamicPlaceholderId=1&amp;ColumnWidth6&amp;Styles4&amp;SplitterSize=2&amp;ColumnWidth3&amp;Reset Caching Options&amp;Styles7&amp;ColumnWidth1=%7bFB140AEF-DE33-4088-9F1D-406C6BA32A8E%7d%7c%7b13E972EE-50F2-476F-A488-9E87DFFF4B71%7d&amp;ColumnWidth4&amp;Styles3&amp;EnabledPlaceholders=1%2c2&amp;Styles1&amp;ColumnWidth8&amp;Styles2&amp;ColumnWidth7&amp;Styles6&amp;Styles5&amp;ColumnWidth2=%7bFB140AEF-DE33-4088-9F1D-406C6BA32A8E%7d%7c%7b2DAC5C5F-3B64-4A60-9A98-262F32C05800%7d&amp;Styles8&amp;ColumnWidth5" s:ph="header" /></d></r>
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200229T191925Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+39d1b69d-d755-4ba1-ad22-79219e6721b2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200229T211256Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

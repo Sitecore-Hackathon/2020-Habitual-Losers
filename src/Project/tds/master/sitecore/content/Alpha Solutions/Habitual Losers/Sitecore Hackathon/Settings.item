@@ -27,9 +27,9 @@ content-length: 38
 field: {BEEEDE03-AB13-4558-96F9-C3E8957B46F8}
 name: Themes
 key: themes
-content-length: 39
+content-length: 38
 
-|{07EB48AE-4F47-46D7-A614-3301C1C2B9FD}
+{07EB48AE-4F47-46D7-A614-3301C1C2B9FD}
 ----field----
 field: {E81E1F9E-8B87-495B-9CB7-84A2A23133BE}
 name: MediaLibrary
@@ -54,8 +54,24 @@ content-length: 350
 ----version----
 language: en
 version: 1
-revision: 5a10fec4-c903-4882-a1a0-996b39f190fa
+revision: 93a61be6-2cf5-4e3e-ad2a-c8cf206cbe1b
 
+----field----
+field: {4B5D1CB7-E617-4CD0-A7E8-CC8A9FD80688}
+name: Rule
+key: rule
+content-length: 497
+
+<ruleset>
+  <rule uid="{241146E4-5D26-46E9-B5AF-B29857A4BDB5}" name="Hackatons Folder">
+    <conditions>
+      <condition id="{E7888105-3B3F-4BD1-B60F-5461EEF4A811}" uid="0EB778BC3C454D1FB6C38695C6C73501" operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" value="{37CFC199-0545-4A2B-A07A-C0D4E6D73506}" />
+    </conditions>
+    <actions>
+      <action id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}" uid="20CB0EA75B3445D8A9D354273A4BC1E4" format="yyyy" />
+    </actions>
+  </rule>
+</ruleset>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -76,14 +92,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5a10fec4-c903-4882-a1a0-996b39f190fa
+93a61be6-2cf5-4e3e-ad2a-c8cf206cbe1b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T005502Z
+20200229T195825Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

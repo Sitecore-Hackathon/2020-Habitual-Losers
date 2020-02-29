@@ -64,6 +64,76 @@ namespace SitecoreHackathon.Project.Website
 
 
  	/// <summary>
+	/// IHackathons_Landing_Page Interface
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Hackathon Pages/Hackathons Landing Page</para>	
+	/// <para>ID: 030ed5c3-d986-4687-8676-8d17f1b34f13</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IHackathons_Landing_PageConstants.TemplateIdString )] //, Cachable = true
+	public partial interface IHackathons_Landing_Page : IGlassBase , global::SitecoreHackathon.Project.Website.IPage
+	{
+				}
+
+
+	public static partial class IHackathons_Landing_PageConstants{
+
+			public const string TemplateIdString = "030ed5c3-d986-4687-8676-8d17f1b34f13";
+			public static readonly ID TemplateId = new ID(TemplateIdString);
+			public const string TemplateName = "Hackathons Landing Page";
+
+					
+			public static readonly ID ContentFieldId = new ID("d923ef11-3e78-40f1-9eef-4ef07995d719");
+			public const string ContentFieldName = "Content";
+			
+					
+			public static readonly ID TitleFieldId = new ID("bf1dcf60-d24b-4c4e-87f0-f2e1cc86e12a");
+			public const string TitleFieldName = "Title";
+			
+			
+
+	}
+
+	
+	/// <summary>
+	/// Hackathons_Landing_Page
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Hackathon Pages/Hackathons Landing Page</para>	
+	/// <para>ID: 030ed5c3-d986-4687-8676-8d17f1b34f13</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IHackathons_Landing_PageConstants.TemplateIdString)] //, Cachable = true
+	public partial class Hackathons_Landing_Page  : GlassBase, IHackathons_Landing_Page 
+	{
+	   
+						/// <summary>
+				/// The Content field.
+				/// <para></para>
+				/// <para>Field Type: Rich Text</para>		
+				/// <para>Field ID: d923ef11-3e78-40f1-9eef-4ef07995d719</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IHackathons_Landing_PageConstants.ContentFieldName)]
+				public virtual string Content  {get; set;}
+					
+						/// <summary>
+				/// The Title field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: bf1dcf60-d24b-4c4e-87f0-f2e1cc86e12a</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IHackathons_Landing_PageConstants.TitleFieldName)]
+				public virtual string Title  {get; set;}
+					
+			
+	}
+}
+namespace SitecoreHackathon.Project.Website
+{
+
+
+ 	/// <summary>
 	/// IPage_Design_Folder Interface
 	/// <para></para>
 	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Page Design Folder</para>	
@@ -96,6 +166,126 @@ namespace SitecoreHackathon.Project.Website
 	public partial class Page_Design_Folder  : GlassBase, IPage_Design_Folder 
 	{
 	   
+			
+	}
+}
+namespace SitecoreHackathon.Project.Website
+{
+
+
+ 	/// <summary>
+	/// IHackathon_Page Interface
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Hackathon Pages/Hackathon Page</para>	
+	/// <para>ID: 147b9204-5efc-4ec4-9994-4fa00612b4c1</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IHackathon_PageConstants.TemplateIdString )] //, Cachable = true
+	public partial interface IHackathon_Page : IGlassBase , global::SitecoreHackathon.Project.Website.IPage
+	{
+								/// <summary>
+					/// The Introduction field.
+					/// <para></para>
+					/// <para>Field Type: Single-Line Text</para>		
+					/// <para>Field ID: bae0092e-2d0c-46fb-b3c6-522e67159fe7</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(IHackathon_PageConstants.IntroductionFieldName)]
+					string Introduction  {get; set;}
+			
+								/// <summary>
+					/// The Year field.
+					/// <para></para>
+					/// <para>Field Type: Date</para>		
+					/// <para>Field ID: 83f79f57-8024-4398-ade6-19c847ffa8ec</para>
+					/// <para>Custom Data: </para>
+					/// </summary>
+					[SitecoreField(IHackathon_PageConstants.YearFieldName)]
+					DateTime Year  {get; set;}
+			
+				}
+
+
+	public static partial class IHackathon_PageConstants{
+
+			public const string TemplateIdString = "147b9204-5efc-4ec4-9994-4fa00612b4c1";
+			public static readonly ID TemplateId = new ID(TemplateIdString);
+			public const string TemplateName = "Hackathon Page";
+
+					
+			public static readonly ID IntroductionFieldId = new ID("bae0092e-2d0c-46fb-b3c6-522e67159fe7");
+			public const string IntroductionFieldName = "Introduction";
+			
+					
+			public static readonly ID YearFieldId = new ID("83f79f57-8024-4398-ade6-19c847ffa8ec");
+			public const string YearFieldName = "Year";
+			
+					
+			public static readonly ID ContentFieldId = new ID("d923ef11-3e78-40f1-9eef-4ef07995d719");
+			public const string ContentFieldName = "Content";
+			
+					
+			public static readonly ID TitleFieldId = new ID("bf1dcf60-d24b-4c4e-87f0-f2e1cc86e12a");
+			public const string TitleFieldName = "Title";
+			
+			
+
+	}
+
+	
+	/// <summary>
+	/// Hackathon_Page
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Hackathon Pages/Hackathon Page</para>	
+	/// <para>ID: 147b9204-5efc-4ec4-9994-4fa00612b4c1</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IHackathon_PageConstants.TemplateIdString)] //, Cachable = true
+	public partial class Hackathon_Page  : GlassBase, IHackathon_Page 
+	{
+	   
+						/// <summary>
+				/// The Introduction field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: bae0092e-2d0c-46fb-b3c6-522e67159fe7</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IHackathon_PageConstants.IntroductionFieldName)]
+				public virtual string Introduction  {get; set;}
+					
+						/// <summary>
+				/// The Year field.
+				/// <para></para>
+				/// <para>Field Type: Date</para>		
+				/// <para>Field ID: 83f79f57-8024-4398-ade6-19c847ffa8ec</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IHackathon_PageConstants.YearFieldName)]
+				public virtual DateTime Year  {get; set;}
+					
+						/// <summary>
+				/// The Content field.
+				/// <para></para>
+				/// <para>Field Type: Rich Text</para>		
+				/// <para>Field ID: d923ef11-3e78-40f1-9eef-4ef07995d719</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IHackathon_PageConstants.ContentFieldName)]
+				public virtual string Content  {get; set;}
+					
+						/// <summary>
+				/// The Title field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: bf1dcf60-d24b-4c4e-87f0-f2e1cc86e12a</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(IHackathon_PageConstants.TitleFieldName)]
+				public virtual string Title  {get; set;}
+					
 			
 	}
 }
@@ -446,6 +636,76 @@ namespace SitecoreHackathon.Project.Website
 	public partial class Site  : GlassBase, ISite 
 	{
 	   
+			
+	}
+}
+namespace SitecoreHackathon.Project.Website
+{
+
+
+ 	/// <summary>
+	/// ITeams_Landing_Page Interface
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Hackathon Pages/Teams Landing Page</para>	
+	/// <para>ID: 852970b3-3534-4661-8540-1a33fe1c0738</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=ITeams_Landing_PageConstants.TemplateIdString )] //, Cachable = true
+	public partial interface ITeams_Landing_Page : IGlassBase , global::SitecoreHackathon.Project.Website.IPage
+	{
+				}
+
+
+	public static partial class ITeams_Landing_PageConstants{
+
+			public const string TemplateIdString = "852970b3-3534-4661-8540-1a33fe1c0738";
+			public static readonly ID TemplateId = new ID(TemplateIdString);
+			public const string TemplateName = "Teams Landing Page";
+
+					
+			public static readonly ID ContentFieldId = new ID("d923ef11-3e78-40f1-9eef-4ef07995d719");
+			public const string ContentFieldName = "Content";
+			
+					
+			public static readonly ID TitleFieldId = new ID("bf1dcf60-d24b-4c4e-87f0-f2e1cc86e12a");
+			public const string TitleFieldName = "Title";
+			
+			
+
+	}
+
+	
+	/// <summary>
+	/// Teams_Landing_Page
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/Project/Alpha Solutions/Habitual Losers/Hackathon Pages/Teams Landing Page</para>	
+	/// <para>ID: 852970b3-3534-4661-8540-1a33fe1c0738</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=ITeams_Landing_PageConstants.TemplateIdString)] //, Cachable = true
+	public partial class Teams_Landing_Page  : GlassBase, ITeams_Landing_Page 
+	{
+	   
+						/// <summary>
+				/// The Content field.
+				/// <para></para>
+				/// <para>Field Type: Rich Text</para>		
+				/// <para>Field ID: d923ef11-3e78-40f1-9eef-4ef07995d719</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(ITeams_Landing_PageConstants.ContentFieldName)]
+				public virtual string Content  {get; set;}
+					
+						/// <summary>
+				/// The Title field.
+				/// <para></para>
+				/// <para>Field Type: Single-Line Text</para>		
+				/// <para>Field ID: bf1dcf60-d24b-4c4e-87f0-f2e1cc86e12a</para>
+				/// <para>Custom Data: </para>
+				/// </summary>
+				[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Team Development for Sitecore - GlassItem.tt", "1.0")]
+				[SitecoreField(ITeams_Landing_PageConstants.TitleFieldName)]
+				public virtual string Title  {get; set;}
+					
 			
 	}
 }
