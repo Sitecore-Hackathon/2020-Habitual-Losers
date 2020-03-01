@@ -1,10 +1,10 @@
 ----item----
 version: 1
-id: {806C7FE6-556C-44C5-B884-75AC3A621877}
+id: {F11FFE3E-ADA4-477C-995A-A0B661463469}
 database: master
-path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Page Designs/Home
+path: /sitecore/content/Alpha Solutions/Habitual Losers/Sitecore Hackathon/Presentation/Page Designs/form page design
 parent: {56A62E3F-4338-4310-B24C-1A6B0EE26B07}
-name: Home
+name: form page design
 master: {00000000-0000-0000-0000-000000000000}
 template: {3D3423B4-ACA1-45CD-96D4-FDFA752AB8C3}
 templatekey: Page Design
@@ -13,13 +13,13 @@ templatekey: Page Design
 field: {0966B999-0D0E-4278-ACC9-9DA69D461FE6}
 name: PartialDesigns
 key: partialdesigns
-content-length: 155
+content-length: 116
 
-{2F680475-DBDF-4C3A-800A-9F60EB6F6EC6}|{80A8D4B7-32CC-4736-8964-D86979636622}|{CAEE14F8-6AB9-48DD-9298-8073664C165F}|{C6CB8C13-5FB5-482D-B181-5C74DFB78ADB}
+{2F680475-DBDF-4C3A-800A-9F60EB6F6EC6}|{EA94CA18-4BBC-4301-9100-D9B4D7F75EE4}|{CAEE14F8-6AB9-48DD-9298-8073664C165F}
 ----version----
 language: en
 version: 1
-revision: c8e68f21-005f-4de0-8848-507e27231853
+revision: 464786ea-d86d-4eac-b89e-2cf0dc0ee4b4
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -27,21 +27,21 @@ name: __Created
 key: __created
 content-length: 16
 
-20200229T010658Z
+20200229T043830Z
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-c8e68f21-005f-4de0-8848-507e27231853
+464786ea-d86d-4eac-b89e-2cf0dc0ee4b4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20200229T230314Z
+20200229T220515Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
