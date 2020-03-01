@@ -8,7 +8,4 @@
    - SXA
    - Sitecore Forms
 
-- Powerpoint Presentation has also been added to the repository, explaining our idea and approach. 
-
-- Screenshots: 
-
+- Presentation pdf conataining screenshots has also been added to the repository also explaining our idea and approach. 
